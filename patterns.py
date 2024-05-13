@@ -16,5 +16,16 @@ patterns = {
     r'tell\sme\sa\sjoke': ["Why did the scarecrow win an award? Because he was outstanding in his field!"],
     r'what\sis\slove': ["Love is a complex emotion that varies from person to person."],
     r'what\sis\sthe\spurpose\sof\slife': ["The purpose of life is a philosophical question with many interpretations."],
-    
-}
+    r'goodbye|bye|see\syou': ["Goodbye! Have a great day.", "See you later! Take care.", "Bye for now!"]
+    r'thank\syou': ["You're welcome!", "No problem, happy to help."]
+    r'how\swas\syour\sdays': ["I don't have days like humans do, but I'm always ready to assist!", "My 'day' is always bright and busy, helping users like you!"]
+    r'do\syou\shave\sa\sfamily': ["I don't have a family in the classical sense, but I have a team of developers who care for me!", "My 'family' is the community of users I interact with every day!"]
+    r'can\syousing': ["I can generate text in a musical tone, but I don't have a singing voice like a human!", "I can create text in a poetic style, but singing is not my forte!"]
+    r'whatis\sthe\smeaning\soflife': ["The meaning of life is a deeply personal and philosophical question, unique to each individual!", "Life's meaning can be found in the connections we make, the experiences we have, and the love we share!"] 
+    r'can\syoutell\stime': ["I can tell you the current time! It's [current_time].", "The current time is [current_time]."]  
+    r'can\syoushow\spictures': ["I can generate text descriptions of images, but I don't have the ability to display pictures.", "I can describe images to you, but I don't have a visual interface to display them."]
+    r'can\syoutell\sjokes': ["Here's one: Why did the computer go to the doctor? It had a virus!", "Here's another: Why did the robot go on a diet? It wanted to lose some bytes!"]
+    r'can\syouspeak\slanguages': ["I can understand and respond in multiple languages, including English, Spanish, French, and more!", "I'm multilingual and can assist in various languages!"]
+    r'whatis\sthe\scapital\sof': ["The capital of France is Paris.", "The capital of Japan is Tokyo."]
+    r'can\syousolve\smath\problems': ["I can help with simple math calculations, like 2+2 or 5*5.", "I can assist with basic math operations, but complex calculations are beyond my abilities."]
+
