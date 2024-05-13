@@ -29,3 +29,5 @@ patterns = {
     r'whatis\sthe\scapital\sof': ["The capital of France is Paris.", "The capital of Japan is Tokyo."]
     r'can\syousolve\smath\problems': ["I can help with simple math calculations, like 2+2 or 5*5.", "I can assist with basic math operations, but complex calculations are beyond my abilities."]
 
+}
+
